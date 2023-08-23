@@ -1,0 +1,13 @@
+[
+  {
+    "name": "anjali",
+    "protocol": "groth16",
+    "circuit": "anjali/circuit.circom",
+    "input": "anjali/input.json",
+    "wasm": "anjali/out/circuit.wasm",
+    "zkey": "anjali/out/anjali.zkey",
+    "vkey": "anjali/out/anjali.vkey",
+    "r1cs": "anjali/out/anjali.r1cs",
+    "beacon": "0102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f"
+  }
+]

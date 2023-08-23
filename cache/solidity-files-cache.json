@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/workspace/polygonmoudle3/contracts/AnjaliVerifier.sol": {
+      "lastModificationDate": 1692803246284,
+      "contentHash": "332b1f271393a8a337d11ea6497a54cb",
+      "sourceName": "contracts/AnjaliVerifier.sol",
+      "solcConfig": {
+        "version": "0.6.11",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.6.11"
+      ],
+      "artifacts": [
+        "Pairing",
+        "Verifier"
+      ]
+    }
+  }
+}
